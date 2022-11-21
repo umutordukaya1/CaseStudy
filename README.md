@@ -1,3 +1,4 @@
 # Collect Cube Clone
-Object Pooling pattern
-Event System
+#Object Pooling pattern
+#Event System
+
